@@ -1,94 +1,98 @@
-<h1 align="center">Oiii! Eu sou o Murilo Pereira 👋</h1>
+<h1 align="center">Oi, sou o Murilo 👋</h1>
 
 <p align="center">
-  💻 Técnico em Desenvolvimento de Sistemas • Futuro universitário em Tecnologia  
+  Técnico em DS pela ETESP · Desenvolvedor Java em formação · São Paulo, SP
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MuriloPereira&color=ff69b4&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=MuriloPereira&color=6366f1&style=flat-square&label=visitas" />
 </p>
 
 ---
 
-## ⭐ GitHub Stats
+## Sobre mim
+
+Tenho 19 anos e sou técnico em Desenvolvimento de Sistemas pela ETESP.
+Estou focado em me tornar desenvolvedor back-end, com estudo profundo em Java e Spring Boot.
+
+Gosto de entender como as coisas funcionam por baixo dos panos — arquitetura de sistemas,
+modelagem de dados, lógica de negócio. Estou construindo projetos reais para consolidar esse conhecimento.
+
+- Formação técnica em DS (ETESP)
+- Foco atual: Java · Spring Boot · APIs REST
+- Construindo projetos web e mobile com o que estudo
+- Em busca de estágio ou vaga júnior como desenvolvedor
+
+---
+
+## Tecnologias
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=MuriloPereira&show_icons=true&theme=radical&count_private=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloPereira&layout=compact&theme=radical" />
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
 </div>
 
 ---
 
-## 🧠 Sobre mim
+## Projetos
 
-🎓 Sou **Técnico em Desenvolvimento de Sistemas**, formado por **duas ETECs**  
-📚 Estudo **Java, Python e SQL**  
-🚀 Ingressarei em uma **Faculdade de Tecnologia ainda este ano**  
-📊 Interesse em **Back-end** e **Análise de Dados**
+### 🌐 ProLink — Plataforma Web
+Plataforma de networking e desenvolvimento profissional versão web.
+Desenvolvida com modelagem completa de banco de dados (MER/DER), sistema de cadastro e relacionamento entre usuários.
+`Java` · `SQL Server` · `HTML` · `CSS` · `JavaScript`
 
-Busco minha **primeira oportunidade na área de tecnologia**, com foco em aprendizado contínuo, boas práticas e evolução profissional.
+### 📱 ProLink — Plataforma Mobile
+Versão mobile da plataforma ProLink, adaptada para dispositivos Android.
+`Java` · `Android`
+
+### ☕ Java Exercícios
+Repositório com exercícios e implementações práticas em Java — lógica, estrutura de dados, POO e mais.
+`Java`
+
+> Mais projetos em andamento — acompanhe o repositório.
 
 ---
 
-## 🚀 Tecnologias que utilizo
+## GitHub Stats
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MuriloPereira&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true&cache_seconds=1800" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloPereira&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" width="41%" />
+</div>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" />
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=MuriloPereira&theme=tokyonight&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D" width="60%" />
+</div>
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MuriloPereira&theme=tokyonight&no-frame=true&row=1&column=6" width="100%" />
 </div>
 
 ---
 
-## 📊 Atividade de Contribuições
+## Contato
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuriloPereira&theme=redical" />
-</div>
-
----
-
-## 📂 O que você encontrará aqui
-
-✔️ Projetos acadêmicos e pessoais  
-✔️ Estudos em **Java, Python e SQL**  
-✔️ Dashboards e análise de dados  
-✔️ Evolução constante como desenvolvedor  
-
----
-
-## 🎯 Objetivo Profissional
-
-Atuar como **Estagiário ou Desenvolvedor Júnior**, contribuindo com:
-- código limpo e organizado  
-- lógica de programação  
-- análise de dados  
-- aprendizado contínuo  
-
----
-
-## 🌐 Vamos nos conectar
-
-<div align="center">
-
-<a href="https://www.linkedin.com/" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="mailto:seuemail@gmail.com">
-  <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
+  <a href="https://www.linkedin.com/in/murilo-pereira-56061b2b3">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:murilodevp9@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </div>
 
 ---
 
 <p align="center">
-  ✨ <i>“Disciplina supera talento quando o talento não é disciplinado.”</i>
+  <i>"Disciplina supera talento quando o talento não é disciplinado."</i>
 </p>
