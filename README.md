@@ -12,7 +12,7 @@
 
 ## Sobre mim
 
-Tenho 19 anos, sou técnico em Desenvolvimento de Sistemas pela ETESP e graduando em Ciência de Dados pela FATEC Sebrae.
+Tenho 20 anos, sou técnico em Desenvolvimento de Sistemas pela ETESP e graduando em Ciência de Dados pela FATEC Sebrae.
 Estou focado na transição para a área de dados, combinando minha bagagem de desenvolvimento com análise estatística, aprendizado de máquina e geração de insights estratégicos.
 
 Gosto de extrair valor de dados complexos, entender padrões e construir modelos que resolvam problemas reais — desde a modelagem estatística até o deploy de modelos de Machine Learning.
