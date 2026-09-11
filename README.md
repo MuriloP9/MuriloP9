@@ -1,7 +1,7 @@
 <h1 align="center">Oi, sou o Murilo 👋</h1>
 
 <p align="center">
-  Técnico em DS pela ETESP · Desenvolvedor Java em formação · São Paulo, SP
+  Técnico em DS pela ETESP · Estudante de Ciência de Dados na FATEC Sebrae · São Paulo, SP
 </p>
 
 <p align="center">
@@ -12,30 +12,29 @@
 
 ## Sobre mim
 
-Tenho 19 anos e sou técnico em Desenvolvimento de Sistemas pela ETESP.
-Estou focado em me tornar desenvolvedor back-end, com estudo profundo em Java e Spring Boot.
+Tenho 19 anos, sou técnico em Desenvolvimento de Sistemas pela ETESP e graduando em Ciência de Dados pela FATEC Sebrae.
+Estou focado na transição para a área de dados, combinando minha bagagem de desenvolvimento com análise estatística, aprendizado de máquina e geração de insights estratégicos.
 
-Gosto de entender como as coisas funcionam por baixo dos panos — arquitetura de sistemas,
-modelagem de dados, lógica de negócio. Estou construindo projetos reais para consolidar esse conhecimento.
+Gosto de extrair valor de dados complexos, entender padrões e construir modelos que resolvam problemas reais — desde a modelagem estatística até o deploy de modelos de Machine Learning.
 
-- Formação técnica em DS (ETESP)
-- Foco atual: Java · Spring Boot · APIs REST
-- Construindo projetos web e mobile com o que estudo
-- Em busca de estágio ou vaga júnior como desenvolvedor
+- Formação técnica em DS (ETESP) · Graduação em Ciência de Dados (FATEC Sebrae)
+- Foco atual: Python · SQL · Machine Learning · Análise & Visualização de Dados
+- Desenvolvendo projetos práticos de análise, EDA e modelagem preditiva
+- Em busca de estágio ou vaga júnior como Cientista / Analista de Dados
 
 ---
 
-## Tecnologias
+## Tecnologias & Ferramentas
 
 <div align="center">
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
@@ -43,22 +42,31 @@ modelagem de dados, lógica de negócio. Estou construindo projetos reais para c
 
 ---
 
+## Áreas de Estudo & Interesses
+
+- **Linguagens & Análise:** Python, R, SQL, Excel Avançado
+- **Visualização & BI:** Power BI, Dashboards Interativos, Storytelling com Dados
+- **Machine Learning & IA:** Aprendizado Supervisionado/Não Supervisionado, Deep Learning
+- **Fundamentos:** Matemática Aplicada, Estatística, Modelagem de Dados
+- **Ambientes de Desenvolvimento:** Jupyter Notebook, Google Colab, VS Code
+
+---
+
 ## Projetos
 
-### 🌐 ProLink — Plataforma Web
-Plataforma de networking e desenvolvimento profissional versão web.
-Desenvolvida com modelagem completa de banco de dados (MER/DER), sistema de cadastro e relacionamento entre usuários.
-`Java` · `SQL Server` · `HTML` · `CSS` · `JavaScript`
+### 📊 Análise Exploratória de Dados (EDA)
+Projetos focados em limpeza, tratamento, tratamento de outliers e análise estatística de conjuntos de dados complexos.
+`Python` · `Pandas` · `NumPy` · `Matplotlib` · `Seaborn`
 
-### 📱 ProLink — Plataforma Mobile
-Versão mobile da plataforma ProLink, adaptada para dispositivos Android.
-`Java` · `Android`
+### 🤖 Modelos Preditivos de Machine Learning
+Desenvolvimento e avaliação de modelos de classificação e regressão para solução de problemas reais de negócios.
+`Python` · `Scikit-Learn` · `Jupyter`
 
-### ☕ Java Exercícios
-Repositório com exercícios e implementações práticas em Java — lógica, estrutura de dados, POO e mais.
-`Java`
+### 📈 Dashboards & Business Intelligence
+Criação de relatórios e painéis interativos para tomada de decisão baseada em dados.
+`Power BI` · `SQL` · `Excel`
 
-> Mais projetos em andamento — acompanhe o repositório.
+> Mais projetos de Ciência de Dados em andamento — acompanhe o repositório.
 
 ---
 
